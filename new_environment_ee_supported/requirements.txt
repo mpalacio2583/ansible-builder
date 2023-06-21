@@ -1,0 +1,5 @@
+5733SC1
+5770DG1
+python3
+python3-itoolkit
+python3-ibm_db
